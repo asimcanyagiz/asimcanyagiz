@@ -1,16 +1,53 @@
-### Hi there 👋
 
-<!--
-**asimcanyagiz/asimcanyagiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi everyone, my name is Asım Can <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="31px"  height="33px" />
+</h1> 
+<h3 align="center">
+  Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25">
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Student at 
+             Anadolu University Computer Programmer 🎓 
+             Ege University Dialysis Technician 🎓 
+## Front-end Developer 👨🏼‍💻 3D printer expert ⚙️ Fitness Lover 💪🏼
+
+- 👨‍⚕️I am currently trainee as a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
+- 👨‍💻I am eager to enhance my programming skills to stay up to date in this progressive sector.
+- 📚I am currently a front-end student at Patika.dev.
+- ☕My hobbies are building robots, hit the gym.
+- 🕺I have management experience. For being a manager at various events at the Ekamit club at the university. 
+
+
+## Connect with me
+
+
+
+
+
+  <a href="https://instagram.com/asimcanyagiz" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="asimcanyagiz" width="40" height="40" style="margin-right: 21em; display:block"/> </a> 
+  <a href="https://linkedin.com/in/asimcanyagiz" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asimcanyagiz" width="35" height="45"/> </a> 
+  <a href="https://github.com/asimcanyagiz" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="asimcanyagiz" width="40" height="45" /> </a> 
+<img align="right" src="https://komarev.com/ghpvc/?username=asimcanyagiz&style=flat-square&color=blue" alt="" width="130" height="25" />
+ 
+
+
+
+## Technologies & Tools
+
+<p align="left"> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="47" height="47"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="47" height="47"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="41" height="41"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
+
+ 
+##
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimcanyagiz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="asimcanyagiz" /></p>
+<p>&nbsp;<img align="rigt" src="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&show_icons=true&theme=radical" alt="asimcanyagiz" width="53%" /></p>
+
+[instagram]: https://www.instagram.com/asimcanyagiz
+[linkedin]: https://www.linkedin.com/in/asimcanyagiz/
+[github]: https://github.com/asimcanyagiz
