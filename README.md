@@ -9,8 +9,8 @@
 
 
 ## Student at 
-             Anadolu University Computer Programmer 🎓 
-             Ege University Dialysis Technician 🎓 
+             Anadolu University Computer Programmer 🎓 2021-2023
+             Ege University Dialysis Technician 🎓 2020-2022
 
 ## Front-end Developer 👨🏼‍💻
 
