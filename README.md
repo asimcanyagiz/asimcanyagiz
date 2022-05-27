@@ -14,7 +14,7 @@
 ## Front-end Developer 👨🏼‍💻 3D printer expert ⚙️ Fitness Lover 💪🏼
 
 - 👨‍⚕️I am currently trainee as a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
-- 👨‍💻I am eager to enhance my programming skills to stay up to date in this progressive sector.
+- 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
 - 📚I am currently a front-end student at Patika.dev.
 - ☕My hobbies are building robots, hit the gym.
 - 🕺I have management experience. For being a manager at various events at the Ekamit club at the university. 
