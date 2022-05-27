@@ -11,13 +11,15 @@
 ## Student at 
              Anadolu University Computer Programmer 🎓 
              Ege University Dialysis Technician 🎓 
-## Front-end Developer 👨🏼‍💻 3D printer expert ⚙️ Fitness Lover 💪🏼
+
+## Front-end Developer 👨🏼‍💻 3D printer expert ⚙️
 
 - 👨‍⚕️I am currently trainee as a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
 - 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
 - 📚I am currently a front-end student at Patika.dev.
-- ☕My hobbies are building robots, hit the gym.
-- 🕺I have management experience. For being a manager at various events at the Ekamit club at the university. 
+- ☕My hobbies are building robots, arduino, chess.
+- 🕺I have management experience. Because I was the manager of various activities in the Ekamit club at the university.
+- 🤳I was the Instagram story manager of the university club Egesavtek (Ege defense industry technology community).
 
 
 ## Connect with me
