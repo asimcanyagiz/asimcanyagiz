@@ -12,12 +12,12 @@
              Anadolu University Computer Programmer 🎓 
              Ege University Dialysis Technician 🎓 
 
-## Front-end Developer 👨🏼‍💻 3D printer expert ⚙️
+## Front-end Developer 👨🏼‍💻
 
 - 👨‍⚕️I am currently trainee as a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
 - 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
 - 📚I am currently a front-end student at Patika.dev.
-- ☕My hobbies are building robots, arduino, chess.
+- ☕My hobbies are building robots, arduino, chess, 3D printer.
 - 🕺I have management experience. Because I was the manager of various activities in the Ekamit club at the university.
 - 🤳I was the Instagram story manager of the university club Egesavtek (Ege defense industry technology community).
 
