@@ -2,13 +2,11 @@
 <h1 align="center">
   Hi everyone, my name is Asım Can <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="31px"  height="33px" />
 </h1> 
-<h3>I've been working to improve myself in the software development.Currently I'm not very active in Github because of I studied 2 different schools and working one of them hospital as a technician. But after the summer this profile will be more productive because I have a dreams to be come so I can't wait make them true.</h3>
-<h3 align="center">
-  Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25">
-</h3>
+I've been working to improve myself in the software development.Currently I'm not very active in Github because of I studied 2 different schools and working one of them hospital as a technician. But after the summer this profile will be more productive because I have a dreams to be come so I can't wait make them true.
+<br>
 <br>
 
-- 🌱 <b> I’m currently learning **Vanilla Javascript.**</b>
+- 🌱 I’m currently learning **Vanilla Javascript.**
 <hr>
 
 ## Student at 
