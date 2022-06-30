@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi everyone, my name is Asım Can
 </h1> 
-I've been working to improve myself in the software development.Currently I'm not very active in Github because of I studied 2 different schools and working one of them hospital as a technician. But after the summer this profile will be more productive because I have a dreams to be come so I can't wait make them true.
+I've been working to improve myself in the software development.I interested in web development fron-end. Currently I'm working hospital as Dialysis Technician but I give minimum 4 hours in a day self learning. I'm ready to collaborate for project. My traine as Dialysis Technician end at 04.08.2022. After that I am ready for a work environment where I can work together and improve myself.
 <br>
 <br>
 
