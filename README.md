@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi everyone, my name is Asım Can
 </h1> 
-I've been working to improve myself in the software development.I interested in web development fron-end. Currently I'm working hospital as Dialysis Technician but I give minimum 4 hours in a day self learning. I'm ready to collaborate for project. My traine as Dialysis Technician end at 04.08.2022. After that I am ready for a work environment where I can work together, create together and improve skills together.
+I've been working to improve myself in the software development.I interested in web development front-end. Currently I'm working hospital as Dialysis Technician but I give minimum 4 hours in a day self learning. I'm ready to collaborate for project. My traine as Dialysis Technician end at 04.08.2022. After that I am ready for a work environment where I can work together, create together and improve skills together.
 <br>
 <br>
 
