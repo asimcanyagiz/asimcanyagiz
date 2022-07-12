@@ -6,6 +6,8 @@ I've been working to improve myself in the software development.I interested in 
 <br>
 <br>
 
+- 🌱 I’m currently learning **Swift.**
+
 - 🌱 I’m currently learning **Vanilla Javascript.**
 <hr>
 
