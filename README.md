@@ -11,7 +11,7 @@ I've been working to improve myself in the software development.I interested in 
 - 🌱 I’m currently learning **Vanilla Javascript.**
 <hr>
 
-## Student at 
+## Education👨🏻‍🎓
              Anadolu University Computer Programmer 🎓 2021-2023
              Ege University Dialysis Technician 🎓 2020-2022
 
