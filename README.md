@@ -2,28 +2,25 @@
 <h1 align="center">
   Hi everyone, my name is Asım Can
 </h1> 
-I've been working to improve myself in the software development.I interested in iOS development and web development front-end. Currently I'm working hospital as Dialysis Technician but I give minimum 4 hours in a day self learning. I'm ready to collaborate for project. My traine as Dialysis Technician end at 04.08.2022. After that I am ready for a work environment where I can work together, create together and improve skills together.
+I've been working to improve myself in the software development.I interested in iOS development. Currently I give minimum 4 hours in a day self learning of Swift. I am ready for a work environment where I can work together, create together and improve skills together.
 <br>
 <br>
 
 - 🌱 I’m currently learning **Swift.**
-
-- 🌱 I’m currently learning **Vanilla Javascript.**
 <hr>
 
 ## Education👨🏻‍🎓
              Anadolu University Computer Programmer 🎓 2021-2023
              Ege University Dialysis Technician 🎓 2020-2022
 
-## Front-end Developer 👨🏼‍💻
+## iOS Developer 👨🏼‍💻 / Front-end Developer 👨🏼‍🎨
 
-- 👨‍⚕️I am currently trainee as a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
 - 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
 - 📚I am currently a front-end student at Patika.dev.
 - ☕My hobbies are building robots, arduino, chess, 3D printer.
 - 🕺I have management experience. From I was the manager of various activities in the Ekamit club at the university.
 - 🤳I was the Instagram story manager of the university club Egesavtek (Ege defense industry technology community).
-
+- 👨‍⚕️I was a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
 
 ## Connect with me
 
