@@ -16,7 +16,8 @@ I've been working to improve myself in the software development.I interested in 
 ## iOS Developer 👨🏼‍💻 / Front-end Developer 👨🏼‍🎨
 
 - 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
-- 📚I am currently a front-end student at Patika.dev.
+- 📚I am currently a Swift student at Patika.dev.
+- 📚I am certificated a Front-end Developer from Patika.dev.
 - ☕My hobbies are building robots, arduino, chess, 3D printer.
 - 🕺I have management experience. From I was the manager of various activities in the Ekamit club at the university.
 - 🤳I was the Instagram story manager of the university club Egesavtek (Ege defense industry technology community).
