@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi everyone, my name is Asım Can
 </h1> 
-I've been working to improve myself in the software development.I interested in iOS development. Currently I give minimum 4 hours in a day self learning of Swift. I am ready for a work environment where I can work together, create together and improve skills together.
+I have been dedicating at least four hours a day to self-learning Swift and improving my skills in iOS development. I am eager to join a work environment where I can collaborate and learn from others. I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer.
 <br>
 <br>
 
@@ -15,13 +15,10 @@ I've been working to improve myself in the software development.I interested in 
 
 ## iOS Developer 👨🏼‍💻 / Front-end Developer 👨🏼‍🎨
 
-- 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
-- 📚I am currently a Swift student at Patika.dev.
-- 📚I am certificated Front-end Developer from Patika.dev.
-- ☕My hobbies are building robots, arduino, chess, 3D printer.
-- 🕺I have management experience. From I was the manager of various activities in the Ekamit club at the university.
-- 🤳I was the Instagram story manager of the university club Egesavtek (Ege defense industry technology community).
-- 👨‍⚕️I was a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
+- 👨‍💻 I am committed to continuously developing my skills and expertise in areas that interest me, with the ultimate goal of achieving professional success in a field that I am passionate about.
+- ☕ I enjoy engaging in a variety of hobbies, including building robots, working with Arduino, playing chess, and using a 3D printer.
+- 🕺 I have experience in managing various activities and projects. For example, while at university, I served as the manager of the Ekamit club, where I was responsible for coordinating and overseeing the activities of the club.
+- 🤳 I was the Instagram story manager for the Ege defense industry technology community at the university.
 
 ## Connect with me
 
