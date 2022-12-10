@@ -19,6 +19,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 - ☕ I enjoy engaging in a variety of hobbies, including building robots, working with Arduino, playing chess, and using a 3D printer.
 - 🕺 I have experience in managing various activities and projects. For example, while at university, I served as the manager of the Ekamit club, where I was responsible for coordinating and overseeing the activities of the club.
 - 🤳 I was the Instagram story manager for the Ege defense industry technology community at the university.
+- 🏆 I am the only person to have completed Patika Pazarama iOS Swift Bootcamp with a perfect score, earning me first place.
 
 ## Connect with me
 
