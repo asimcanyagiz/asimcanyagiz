@@ -50,7 +50,9 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 
  
 ##
+<!--
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=asimcanyagiz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="asimcanyagiz" /></p>
+-->
 <p>&nbsp;<img align="rigt" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asimcanyagiz&show_icons=true&theme=radical" alt="asimcanyagiz" width="53%" /></p>
 
 [instagram]: https://www.instagram.com/asimcanyagiz
