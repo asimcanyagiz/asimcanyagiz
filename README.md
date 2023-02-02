@@ -31,13 +31,13 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
     </tr>
     <tr>
         <td colspan="2" rowspan="2">
-        <a href="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
-        <img src="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+        <a href="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=radical">
         </a>
         </td>
         <td colspan="2" rowspan="2">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=tokyonight">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=tokyonight">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=radical">
         </a>
         </td>
     </tr>
