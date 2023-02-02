@@ -13,27 +13,13 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
              Anadolu University Computer Programmer 🎓 2021-2023
              Ege University Dialysis Technician 🎓 2020-2022
 
-## iOS Developer 👨🏼‍💻 / Front-end Developer 👨🏼‍🎨
+## iOS Developer 👨🏻‍💻
 
-- 👨‍💻 I am committed to continuously developing my skills and expertise in areas that interest me, with the ultimate goal of achieving professional success in a field that I am passionate about.
+- 👨🏻‍💻 I am committed to continuously developing my skills and expertise in areas that interest me, with the ultimate goal of achieving professional success in a field that I am passionate about.
 - ☕ I enjoy engaging in a variety of hobbies, including building robots, working with Arduino, playing chess, and using a 3D printer.
 - 🕺 I have experience in managing various activities and projects. For example, while at university, I served as the manager of the Ekamit club, where I was responsible for coordinating and overseeing the activities of the club.
 - 🤳 I was the Instagram story manager for the Ege defense industry technology community at the university.
 - 🏆 I am the only person to have completed Patika Pazarama iOS Swift Bootcamp with a perfect score, earning me first place.
-
-## Connect with me
-
-
-
-
-
-  <a href="https://instagram.com/asimcanyagiz" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="asimcanyagiz" width="40" height="40" style="margin-right: 21em; display:block"/> </a> &nbsp;
-  <a href="https://linkedin.com/in/asimcanyagiz" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asimcanyagiz" width="35" height="45"/> </a> &nbsp;
-  <a href="https://github.com/asimcanyagiz" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="asimcanyagiz" width="40" height="45" /> </a> 
-<img align="right" src="https://komarev.com/ghpvc/?username=asimcanyagiz&style=flat-square&color=blue" alt="" width="130" height="25" />
- 
-
-
 
 ## Technologies & Tools
 
@@ -50,6 +36,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 
  
 ##
+<img align="right" src="https://komarev.com/ghpvc/?username=asimcanyagiz&style=flat-square&color=blue" alt="" width="130" height="25" />
 <!--
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=asimcanyagiz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="asimcanyagiz" /></p>
 -->
