@@ -6,23 +6,12 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 <br>
 <br>
 
-- 🌱 I’m currently learning **Swift.**
-<hr>
-
-## iOS Developer 👨🏻‍💻
-
-- 👨🏻‍💻 I am committed to continuously developing my skills and expertise in areas that interest me, with the ultimate goal of achieving professional success in a field that I am passionate about.
-- ☕ I enjoy engaging in a variety of hobbies, including building robots, working with Arduino, playing chess, and using a 3D printer.
-- 🕺 I have experience in managing various activities and projects. For example, while at university, I served as the manager of the Ekamit club, where I was responsible for coordinating and overseeing the activities of the club.
-- 🤳 I was the Instagram story manager for the Ege defense industry technology community at the university.
-- 🏆 I am the only person to have completed Patika Pazarama iOS Swift Bootcamp with a perfect score, earning me first place.
-
 <div>
     <h2 align=center> My Featured Applications </h2>
 </div>
 
 <div align=center>
-    <a href="https://github.com/asimcanyagiz/Scientific-Calculator"><img width=150 top=2px src="https://user-images.githubusercontent.com/89473605/216363927-194b7a93-ee9f-4eb5-a716-f66ee41a9c7b.png"></a>
+    <a href="https://github.com/asimcanyagiz/Scientific-Calculator"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363927-194b7a93-ee9f-4eb5-a716-f66ee41a9c7b.png"></a>
     <a href="https://github.com/asimcanyagiz/Flickgram"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363227-108b90d4-f1df-494b-820c-d8dae190dd23.png"></a>
     <a href="https://github.com/asimcanyagiz/WisdomAI-ChatGPT"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363211-81c792f4-2ce0-459f-a5fc-e726aba0bcb0.png"></a>
     <a href="https://github.com/asimcanyagiz/BazaarWay"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363022-119a17aa-d2bb-4f08-ade2-bee9768b946b.png"></a>
