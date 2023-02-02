@@ -19,7 +19,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 </div>
 
 
-<br><br>
+<br>
 <table>
     <tr>
         <td colspan="2">
