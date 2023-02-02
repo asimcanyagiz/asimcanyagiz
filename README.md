@@ -49,7 +49,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 <table>
     <tr>
         <td colspan="8">
-        <strong><samp>Main Skills:</samp></strong>
+        <strong><samp>Skills:</samp></strong>
         </td>
     </tr>
         <tr>
@@ -61,26 +61,13 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
         <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>            
-        </td>
-    </tr>
-</table>
-  
-  <div align=center>
-<table>
-    <tr>
-        <td colspan="8">
-        <strong><samp>Hobby Skills:</samp></strong>
-        </td>
-    </tr>
-        <tr>
-        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>     
         <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/python.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>        
+        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>     
         </td>
     </tr>
 </table>
