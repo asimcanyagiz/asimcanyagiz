@@ -21,27 +21,66 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 - 🤳 I was the Instagram story manager for the Ege defense industry technology community at the university.
 - 🏆 I am the only person to have completed Patika Pazarama iOS Swift Bootcamp with a perfect score, earning me first place.
 
-## Technologies & Tools
+<br><br>
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=tokyonight">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimcanyagiz&hide_border=true&theme=tokyonight">
+        </a>
+        </td>
+    </tr>
+</table>
 
-<p align="left"> 
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="html5" width="41" height="41"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="47" height="47"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="47" height="47"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="41" height="41"/> </a> &nbsp; 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
-</p>
-
- 
-##
-<img align="right" src="https://komarev.com/ghpvc/?username=asimcanyagiz&style=flat-square&color=blue" alt="" width="130" height="25" />
-<!--
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=asimcanyagiz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="asimcanyagiz" /></p>
--->
-<p>&nbsp;<img align="rigt" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asimcanyagiz&show_icons=true&theme=radical" alt="asimcanyagiz" width="53%" /></p>
-
-[instagram]: https://www.instagram.com/asimcanyagiz
-[linkedin]: https://www.linkedin.com/in/asimcanyagiz/
-[github]: https://github.com/asimcanyagiz
+<div align=center>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Main Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/swift.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/xcode.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>            
+        </td>
+    </tr>
+</table>
+  
+  <div align=center>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Hobby Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/python.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>        
+        </td>
+    </tr>
+</table>
