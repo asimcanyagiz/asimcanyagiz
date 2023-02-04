@@ -17,6 +17,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
     <a href="https://github.com/asimcanyagiz/BazaarWay"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363022-119a17aa-d2bb-4f08-ade2-bee9768b946b.png"></a>
   <a href="https://github.com/asimcanyagiz/MeTunes"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363220-5d0b82ad-bde3-47db-9206-404424cf1892.png"></a>
 </div>
+<h1 align="center">Scientific-Calculator | Flickgram | WisdomAI-ChatGPT | BazaarWay | MeTunes</h1>
 
 
 <br>
