@@ -11,9 +11,9 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 </div>
 
 <div align=center>
-  <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896"><img width=150 src="https://github.com/asimcanyagiz/asimcanyagiz/assets/89473605/249723979-e193a647-5361-4fe8-8170-92049597ab69.png"></a>
+  <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896"><img width=150 src="https://user-images.githubusercontent.com/89473605/249723979-e193a647-5361-4fe8-8170-92049597ab69.png"></a>
   <a href="https://apps.apple.com/tr/app/fitguide-ai-fitness-coach/id6447810132"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197210-1c744c7d-7dea-450f-918d-30271c96d7de.png"></a>
-  <a href="https://apps.apple.com/tr/app/sustainable-quiz-eco-curiosity/id6449001906"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197219-6ffcac48-93ea-4250-aced-692bd3c2b508.png"></a>
+  <a href="https://apps.apple.com/tr/app/sustainable-quiz-eco-curiosity/id6449001906?"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197219-6ffcac48-93ea-4250-aced-692bd3c2b508.png"></a>
   <a href="https://twitter.com/asimcanyagizz/status/1651236378057777155?s=20"><img width=150 src="https://user-images.githubusercontent.com/89473605/240504218-82581570-4e57-4a34-a1e9-1e05670cbcbb.png"></a>
   <a href="https://github.com/asimcanyagiz/BazaarWay"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363022-119a17aa-d2bb-4f08-ade2-bee9768b946b.png"></a>
   <a href="https://github.com/asimcanyagiz/WisdomAI-ChatGPT"><img width=150 src="https://user-images.githubusercontent.com/89473605/216363211-81c792f4-2ce0-459f-a5fc-e726aba0bcb0.png"></a>
