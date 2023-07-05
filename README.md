@@ -11,7 +11,7 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 </div>
 
 <div align=center>
-  <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896"><img width=150 src="https://user-images.githubusercontent.com/89473605/249723979-e193a647-5361-4fe8-8170-92049597ab69.png"></a>
+  <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896"><img width=150 src="https://user-images.githubusercontent.com/89473605/251201893-0fb4a518-9533-4f65-a0da-345d8cb4f993.png"></a>
   <a href="https://apps.apple.com/tr/app/fitguide-ai-fitness-coach/id6447810132"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197210-1c744c7d-7dea-450f-918d-30271c96d7de.png"></a>
   <a href="https://apps.apple.com/tr/app/sustainable-quiz-eco-curiosity/id6449001906?"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197219-6ffcac48-93ea-4250-aced-692bd3c2b508.png"></a>
   <a href="https://twitter.com/asimcanyagizz/status/1651236378057777155?s=20"><img width=150 src="https://user-images.githubusercontent.com/89473605/240504218-82581570-4e57-4a34-a1e9-1e05670cbcbb.png"></a>
