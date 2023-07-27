@@ -11,6 +11,8 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 </div>
 
 <div align=center>
+  <a href="https://apps.apple.com/app/harbi-14-pro-pink-wallpapers/id6451498327"><img width=150 src="https://user-images.githubusercontent.com/89473605/256626587-b846abdf-d69e-400a-9fad-f06b1f5de934.png"></a>
+  <a href="https://apps.apple.com/app/atomic-nuclear-live-wallpapers/id6451434212"><img width=150 src="https://user-images.githubusercontent.com/89473605/256626594-660f1de1-e5c4-4696-ae89-cd233d4a703f.png"></a>
   <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896"><img width=150 src="https://user-images.githubusercontent.com/89473605/251201893-0fb4a518-9533-4f65-a0da-345d8cb4f993.png"></a>
   <a href="https://apps.apple.com/tr/app/fitguide-ai-fitness-coach/id6447810132"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197210-1c744c7d-7dea-450f-918d-30271c96d7de.png"></a>
   <a href="https://apps.apple.com/tr/app/sustainable-quiz-eco-curiosity/id6449001906?"><img width=150 src="https://user-images.githubusercontent.com/89473605/240197219-6ffcac48-93ea-4250-aced-692bd3c2b508.png"></a>
@@ -22,6 +24,8 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
 </div>
 
 <h3 align="center">
+  <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896">Harbi - 14 Pro Pink Wallpapers</a> |
+  <a href="https://apps.apple.com/tr/app/fitguide-ai-fitness-coach/id6447810132">Atomic Nuclear Live Wallpapers</a> |
   <a href="https://apps.apple.com/tr/app/creator-ai-wallpaper-engine/id6450626896">Creator AI - Wallpaper Engine</a> |
   <a href="https://apps.apple.com/tr/app/fitguide-ai-fitness-coach/id6447810132">Fitguide AI Fitness Coach</a> |
   <a href="https://apps.apple.com/tr/app/sustainable-quiz-eco-curiosity/id6449001906">Sustainable Quiz - Eco Curiosity</a> |
